@@ -11,10 +11,6 @@ function Navbar() {
             <span className="ml-2 text-lg font-semibold text-gray-900">Tholumuzi Khuboni</span>
           </div>
           <div className="flex items-center space-x-6">
-            <a href="#about" className="text-gray-600 hover:text-indigo-600 transition-colors">About</a>
-            <a href="#projects" className="text-gray-600 hover:text-indigo-600 transition-colors">Projects</a>
-            <a href="#stats" className="text-gray-600 hover:text-indigo-600 transition-colors">Stats</a>
-            <a href="#tech" className="text-gray-600 hover:text-indigo-600 transition-colors">Tech Stack</a>
             <a href="https://github.com/tholumuzikhuboni" 
                className="inline-flex items-center gap-1 px-4 py-2 rounded-full bg-gray-900 text-white hover:bg-gray-800 transition-all transform hover:scale-105">
               <Github size={16} />

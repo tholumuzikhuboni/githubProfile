@@ -8,7 +8,7 @@ function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Home className="h-6 w-6 text-indigo-600" />
-            <span className="ml-2 text-lg font-semibold text-gray-900">Tholumuzi Khuboni</span>
+            <span className="ml-2 text-lg font-semibold text-gray-1000">Tholumuzi Khuboni</span>
           </div>
           <div className="flex items-center space-x-6">
             <a href="https://github.com/tholumuzikhuboni" 
